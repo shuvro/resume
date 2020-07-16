@@ -182,36 +182,37 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "PostgreSQL"
         },
         {
           "name": "Mongodb"
         },
         {
-          "name": "Parse"
+          "name": "MySql"
         },
         {
           "name": "Firebase"
         },
         {
-          "name": "Elastic Search"
+          "name": "SQLite"
         }
       ]
     }
   ],
   "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
+      "institution": "American International University Bangladesh",
+      "degree": "BSc in Computer Science & Software Engineering",
       "start": "2013",
-      "end": "2006"
+      "end": "2016"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Universiti Malaysia Pahang",
+      "degree": "MSc in Computer Science",
+      "start": "2020",
+      "end": "2022"
     }
   ],
   "experience": [
@@ -295,7 +296,7 @@
       "url": "https://www.instagram.com/shuvro.me"
     }
   ],
-  "role": "Technologist",
+  "role": "Software Engineer",
   "projects": [
     {
       "name": "Gatsby resume starter",
